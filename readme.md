@@ -1,4 +1,4 @@
-##SQL DUMP file location
+##SQL DUMP file location  ## Table of Contents
 
 The SQL dump file is in the sql_dump_file folder.
 
