@@ -2,6 +2,7 @@
 This is a quick assignment and should take no more than 1 hour to complete.  Using your favorite PHP framework build a 2 page web application that will display a list of companies and that companies’ properties.  This list of companies will have a link on each company to display that companies’ properties.  The 2 files have id’s on the first column that represent the companies’ unique ID.  Each file should be loaded into a dB.
 
 Files:
+## Files
 
 Companies.txt 
 Columns (comma separated optionally enclosed by “)
@@ -25,7 +26,7 @@ state
 zip
 phone
 
-Assignment
+## Assignment
 
 Create a page that displays all companies from a database table
 Page can be a table with a link on row or company name
