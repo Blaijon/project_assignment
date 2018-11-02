@@ -1,11 +1,4 @@
-##SQL DUMP file location  ## Table of Contents
-
-The SQL dump file is in the sql_dump_file folder.
-
-
-
-Programming Assignment
-
+## Programming Assignment
 This is a quick assignment and should take no more than 1 hour to complete.  Using your favorite PHP framework build a 2 page web application that will display a list of companies and that companies’ properties.  This list of companies will have a link on each company to display that companies’ properties.  The 2 files have id’s on the first column that represent the companies’ unique ID.  Each file should be loaded into a dB.
 
 Files:
